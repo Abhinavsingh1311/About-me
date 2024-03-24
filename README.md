@@ -4,11 +4,11 @@ Welcome to my GitHub! I'm a passionate developer with a keen interest in open-so
 
 ## 🌟 Highlighted Projects
 - under progress :)
-- 
+
 ## 🛠 Skills and Technologies
 
 - Languages: C#, JavaScript, C++
-- Frameworks: React, Django
+- Frameworks: React, Django, Blazor
 - Tools: Docker, Git
 
 ## 📫 How to Reach Me
