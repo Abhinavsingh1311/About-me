@@ -1,6 +1,6 @@
 # Hi, I'm Abhinav Singh
 
-Welcome to my GitHub! I'm a passionate developer with a keen interest in open-source projects, machine learning, and developing useful tools and applications to solve real-world problems. Here's a quick overview of my work and interests.
+Welcome to my GitHub! I'm a passionate developer with a keen interest in open-source projects, and developing useful tools and applications to solve real-world problems. Here's a quick overview of my work and interests.
 
 ## 🌟 Highlighted Projects
 - under progress :)
@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm a passionate developer with a keen interest in open-so
 ## 🛠 Skills and Technologies
 
 - Languages: C#, JavaScript, C++ , SQL (Microsoft SQL Server Management Studio - MSSMS)
-- Frameworks: React, Django, Blazor
+- Frameworks: React, Blazor
 - Tools: Docker, Git
 - DSA: 100+ questions on Leetcode
 - Proficient in OOPs
